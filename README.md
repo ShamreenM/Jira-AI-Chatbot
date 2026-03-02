@@ -1,0 +1,61 @@
+# 🤖 JIRA AI Chatbot (RAG + OpenAI + Streamlit)
+
+An AI-powered JIRA assistant built using:
+- Pandas (Preprocessing)
+- LangChain Orchestration Framework
+- Sentence Transformer for embediing vector (Hugging Face)
+- Open AI
+- ChromaDB (Vector Database)
+- Streamlit (Frontend)
+
+---
+
+## 🚀 Features
+
+- Retrieval-Augmented Generation (RAG)
+- JIRA metadata extraction
+- Clean Streamlit UI
+- Sentence transformer + OpenAI LLM integration
+- Vector search using ChromaDB
+- Frontend application using Streamlit
+
+---
+
+# 🛠️ Setup Instructions
+
+Follow these steps to run the project locally:
+
+---
+
+1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+2️⃣ Create Virtual Environment
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+3️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4️⃣ Create .env File
+```bash
+OPENAPI_API_KEY=your_api_key_here
+```
+
+5️⃣ Run the Application
+```bash
+streamlit run app.py
+```
+
+App will open in your browser at:
+
+http://localhost:8501
