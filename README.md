@@ -16,9 +16,12 @@ But model ready code is available in JiraAIChatbot.py
 - Retrieval-Augmented Generation (RAG)
 - JIRA metadata extraction
 - Clean Streamlit UI
+- Natural language querying of JIRA tickets
 - Sentence transformer + OpenAI LLM integration
-- Vector search using ChromaDB with meta data filtering 
-- Frontend application using Streamlit
+- Semantic Vector search using ChromaDB with meta data filtering
+- Issue key detection using regex-based intent routing
+- Deterministic field extraction via structured prompt engineering
+- Hallucination prevention using strict context grounding
 
 ---
 
