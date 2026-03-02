@@ -17,7 +17,7 @@ But model ready code is available in JiraAIChatbot.py
 - JIRA metadata extraction
 - Clean Streamlit UI
 - Sentence transformer + OpenAI LLM integration
-- Vector search using ChromaDB
+- Vector search using ChromaDB with meta data filtering 
 - Frontend application using Streamlit
 
 ---
@@ -60,3 +60,10 @@ streamlit run app.py
 App will open in your browser at:
 
 http://localhost:8501
+
+# Sample Questions to ask bot
+
+1. Any issue asking to Please upload the image to Google Drive and share the link?
+2. Give me the list of issues which were commented on 25/May/2023 ?
+3. What is the current status of issue SRCTREEWIN-14037
+4. Is this issue Displaying all changes between hash1 and hash2 doesn't raised?'
