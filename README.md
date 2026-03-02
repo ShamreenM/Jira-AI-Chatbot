@@ -7,7 +7,8 @@ An AI-powered JIRA assistant built using:
 - Open AI
 - ChromaDB (Vector Database)
 - Streamlit (Frontend)
-
+- Refer Jira_API_Chatbot.ipynb for above steps perfomed
+But model ready code is available in JiraAIChatbot.py
 ---
 
 ## 🚀 Features
