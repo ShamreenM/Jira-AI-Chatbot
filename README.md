@@ -28,6 +28,8 @@ Follow these steps to run the project locally:
 
 ---
 
+Chroma (Vector DB) for embeddings are available here - https://drive.google.com/file/d/1QYxliFEJbuowOrCZWKq09_GLPdsfYI7Y/view?usp=sharing. Download and keep it in same folder as below.
+
 1️⃣ Clone the Repository
 
 ```bash
