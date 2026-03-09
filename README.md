@@ -14,7 +14,10 @@ An AI-powered JIRA assistant built using:
 - Refer Jira_API_Chatbot.ipynb for above steps perfomed
 But model ready code is available in JiraAIChatbot.py
 ---
+## Architecture
+<img width="1192" height="670" alt="image" src="https://github.com/user-attachments/assets/76cc0281-f2c2-4ba3-9ad5-045bff4466ca" />
 
+---
 ## 🚀 Features
 
 - Retrieval-Augmented Generation (RAG)
