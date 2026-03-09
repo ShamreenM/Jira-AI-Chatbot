@@ -1,5 +1,9 @@
 # 🤖 JIRA AI Chatbot (RAG + OpenAI + Streamlit)
 
+Built an AI-powered JIRA chatbot using Retrieval-Augmented Generation (RAG) architecture to enable natural language querying of JIRA tickets.
+Integrated semantic search with metadata filtering using ChromaDB and OpenAI embeddings to retrieve issue details such as status, priority, creation date, and resolution.
+Designed structured prompt engineering to ensure accurate extraction of JIRA metadata fields and prevent hallucinations.
+
 An AI-powered JIRA assistant built using:
 - Pandas (Preprocessing)
 - LangChain Orchestration Framework
